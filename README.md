@@ -1,8 +1,6 @@
 # app-dev
 My First Repository
-
 <br></br>
-
 <b> The 100 | 2020 | Directed By: Jason Rothenberg</b>
 * **Sci-fi**
 
