@@ -10,7 +10,6 @@ My First Repository
 <dt>Plot:</dt>
 <dd><i> A century after Earth was devastated by a nuclear apocalypse, 100 space station residents are sent to the planet to determine whether it's habitable.</i></dd>
 </br>
------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ## CAST
 
 <p>Eliza Taylor  </p>
